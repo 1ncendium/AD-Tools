@@ -19,7 +19,7 @@ Download the ZIP file from the repository and unzip it into a directory within y
 OR
 
 1. Open Windows Explorer.
-2. Go to the directory with the script in it for example : C:\Scripts\AD-Tools.
+2. Go to the directory with the script in it for example : C:\Scripts\AD-Tools\
 3. Right click on the AD-Tools.ps1 file and click "Run with PowerShell"
 
 ## Help menu
