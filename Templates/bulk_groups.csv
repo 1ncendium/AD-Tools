@@ -1,0 +1,3 @@
+Group name,Group Scope,Group Type,Description,Organizational Unit,,
+Staff,Global,Security,Group for the company management,"OU=Staff,OU=TAE,DC=TAE,DC=local",,
+Employees,Global,Security,Group for the company employees,"OU=Employees,OU=TAE,DC=TAE,DC=local",,
