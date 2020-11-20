@@ -1,6 +1,15 @@
 # AD-Tools
 PowerShell scripts that provide a number of tools to make your Active Directory life easier.
 
+## Tools
+* Bulk tools
+  - Bulk add / disable / delete users
+  - Bulk add / delete groups
+  - Bulk add / delete computers
+* List tools
+  - List users, groups, computers within a specific OU
+  - List Domain Controllers within a specific domain within the forest
+
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
