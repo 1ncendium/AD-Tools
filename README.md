@@ -25,3 +25,8 @@ OR
 ## Help menu
 This script has an build in help function to guide you trough the various tools.
 To open the help menu, you simply type in "help" within the PowerShell main prompt of the script.
+
+## License
+MIT License
+
+By Remco van der Meer(™)
