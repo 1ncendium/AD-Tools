@@ -13,7 +13,7 @@ PowerShell scripts that provide a number of tools to make your Active Directory 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-* You have access to a Windows Server (WS) 2008, 2012, 2016 or 2020 running Active Directory (AD).
+* You have access to a Windows Server (WS) 2008, 2012, 2016 or 2019 running Active Directory (AD).
 * Running unsigned scripts is allowed on your WS.
 * You have access to the WS with Administrator privileges.
 
